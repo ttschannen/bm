@@ -1,5 +1,13 @@
-baseurl = "http://ttschannen.github.io/bm"
+baseurl = "http://ttschannen.github.io/bm/"
 languageCode = "en-us"
 title = "TTs bookmarks"
 contentdir = "content"
 canonifyurls = true
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Thomas Tschannen-Mueller"
+
+[params]
+    github = "http://ttschannen.github.io"
