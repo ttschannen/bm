@@ -1,0 +1,5 @@
+#!/bin/bash
+bin/mkbm.pl input/mybm.txt
+git add .
+git commit -m "modified bookmarks on `date`"
+bin/deploy.sh

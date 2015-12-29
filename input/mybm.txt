@@ -1,0 +1,36 @@
+# tt's Bookmarks
+#
+# File;Title;URL
+
+
+IVI; sherlock; http://sherlock.ivi.admin.ch:3000
+IVI; Tf Liste; http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e
+IVI; Tf Liste (pdf); http://php.ivi.admin.ch/ldap/telpdf.php3?language=e
+IVI; Director old GUI; http://admix.ivi.admin.ch/bigswaf/BigClerk/browse
+IVI; Director new GUI; http://admix.ivi.admin.ch:9999
+
+
+BV; egate; http://www.egate.admin.ch
+BV; Admin Dir; http://intranet.verzeichnisse.admin.ch
+
+BIT;Remedy; https://intranet.remedy.adr.admin.ch/arsys
+#BIT;Report MLR; https://bs-reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fReports%2fMLR%2fMLR+-+myReports&rs:Command=Render
+#BIT;Report TKR; https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&rs:Command=Render
+BIT;Sec Print;http://intranet.secprint.admin.ch
+BIT;UCC;https://intranet.collaboration.admin.ch/sites/UCC-LEBIT/EDI/IVI/default.aspx
+BIT;Atlantica W-UI;https://v820000005019b.adb.vos.admin.ch:8089/org/CLOUD
+BIT;mVDI;https://mvdi.ras.admin.ch/citrix/desktopweb
+BIT;AdminVDI;https://vdi-admin.ras.admin.ch
+
+EDI;LBK;https://intranet.collaboration.admin.ch/sites/LBKEDI/default.aspx
+EDI;ISK;https://intranet.collaboration.admin.ch/sites/LBKEDI/EDI-SEC/default.aspx
+EDI;ICK;https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx
+
+
+TT;VB Ittigen;http://doodle.com/zrfnq2mcvubew23s
+TT;VB Riffenmatt;http://doodle.com/poll/yq2n6eqghnfw5wpfab35eirh/admin#table
+TT;VB Schwarzenburg;http://doodle.com/poll/9vh4fmbqg678yvvx
+TT;Github;http://github.org/ttschannen
+TT;Meggiana;http://meggiana11.it
+
+
