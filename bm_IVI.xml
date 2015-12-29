@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IVI Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs IVI bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Director new GUI</title>
+      <link>http://admix.ivi.admin.ch:9999</link>
+    </item>
+    <item>
+      <title>Director old GUI</title>
+      <link>http://admix.ivi.admin.ch/bigswaf/BigClerk/browse</link>
+    </item>
+    <item>
+      <title>Tf Liste</title>
+      <link>http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e</link>
+    </item>
+    <item>
+      <title>Tf Liste (pdf)</title>
+      <link>http://php.ivi.admin.ch/ldap/telpdf.php3?language=e</link>
+    </item>
+    <item>
+      <title>sherlock</title>
+      <link>http://sherlock.ivi.admin.ch:3000</link>
+    </item>
+  </channel>
+</rss>

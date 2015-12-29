@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TT Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs TT bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Github</title>
+      <link>http://github.org/ttschannen</link>
+    </item>
+    <item>
+      <title>VB Ittigen</title>
+      <link>http://doodle.com/zrfnq2mcvubew23s</link>
+    </item>
+    <item>
+      <title>VB Riffenmatt</title>
+      <link>http://doodle.com/poll/yq2n6eqghnfw5wpfab35eirh/admin#table</link>
+    </item>
+    <item>
+      <title>VB Schwarzenburg</title>
+      <link>http://doodle.com/poll/9vh4fmbqg678yvvx</link>
+    </item>
+  </channel>
+</rss>
