@@ -22,6 +22,10 @@
       <link>http://php.ivi.admin.ch/ldap/telpdf.php3?language=e</link>
     </item>
     <item>
+      <title>Wiki</title>
+      <link>http://wiki/dokuwiki</link>
+    </item>
+    <item>
       <title>sherlock</title>
       <link>http://sherlock.ivi.admin.ch:3000</link>
     </item>

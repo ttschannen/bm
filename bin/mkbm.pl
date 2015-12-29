@@ -3,7 +3,7 @@
 #
 #
 my $DEBUG=0;
-my $odir="bm/content";
+my $odir="content";
 
 my $bm={};
 while(<>){
