@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDI Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs EDI bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>ICK</title>
+      <link>https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx</link>
+    </item>
+    <item>
+      <title>ISK</title>
+      <link>https://intranet.collaboration.admin.ch/sites/LBKEDI/EDI-SEC/default.aspx</link>
+    </item>
+    <item>
+      <title>LBK</title>
+      <link>https://intranet.collaboration.admin.ch/sites/LBKEDI/default.aspx</link>
+    </item>
+  </channel>
+</rss>

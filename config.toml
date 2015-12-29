@@ -1,0 +1,5 @@
+baseurl = "http://ttschannen.github.io/bm"
+languageCode = "en-us"
+title = "TTs bookmarks"
+contentdir = "content"
+canonifyurls = true
