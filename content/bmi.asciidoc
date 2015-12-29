@@ -8,6 +8,7 @@ title = "Index"
 
 We have these bookmarkfiles:
 
+[options="compact"]
 * http://ttschannen.github.io/bm/bm_BIT.xml[BIT]
 * http://ttschannen.github.io/bm/bm_BV.xml[BV]
 * http://ttschannen.github.io/bm/bm_EDI.xml[EDI]

@@ -21,6 +21,7 @@ title = "Index"
 
 We have these bookmarkfiles:
 
+[options="compact"]
 EndOfHeader
 
 
