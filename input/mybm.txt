@@ -8,6 +8,7 @@ IVI; Tf Liste; http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e
 IVI; Tf Liste (pdf); http://php.ivi.admin.ch/ldap/telpdf.php3?language=e
 IVI; Director old GUI; http://admix.ivi.admin.ch/bigswaf/BigClerk/browse
 IVI; Director new GUI; http://admix.ivi.admin.ch:9999
+IVI; Wiki; http://wiki/dokuwiki
 
 
 BV; egate; http://www.egate.admin.ch
