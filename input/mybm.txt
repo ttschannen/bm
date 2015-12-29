@@ -13,6 +13,8 @@ IVI; Wiki; http://wiki/dokuwiki
 
 BV; egate; http://www.egate.admin.ch
 BV; Admin Dir; http://intranet.verzeichnisse.admin.ch
+BV; Intranet BIT; http://intranet.bit.admin.ch
+BV; Intranet ISB; http://intranet.isb.admin.ch
 
 BIT;Remedy; https://intranet.remedy.adr.admin.ch/arsys
 #BIT;Report MLR; https://bs-reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fReports%2fMLR%2fMLR+-+myReports&rs:Command=Render
@@ -34,4 +36,7 @@ TT;VB Schwarzenburg;http://doodle.com/poll/9vh4fmbqg678yvvx
 TT;Github;http://github.org/ttschannen
 TT;Meggiana;http://meggiana11.it
 
-
+GP; Arp ; http://www.arp.ch
+GP; Brack ; http://www.brack.ch
+GP; Disdata ; http://www.disdata.ch
+GP; transtec ; http://www.transtec.ch
