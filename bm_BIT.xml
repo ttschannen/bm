@@ -18,6 +18,18 @@
       <link>https://intranet.remedy.adr.admin.ch/arsys</link>
     </item>
     <item>
+      <title>Reporting</title>
+      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fWelcome</link>
+    </item>
+    <item>
+      <title>Reporting MLR</title>
+      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/MLR/MLR+-+MyReports&rs:Command=Render&rs:ClearSession=true</link>
+    </item>
+    <item>
+      <title>Reporting TKR</title>
+      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&rs:Command=Render</link>
+    </item>
+    <item>
       <title>Sec Print</title>
       <link>http://intranet.secprint.admin.ch</link>
     </item>
