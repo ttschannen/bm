@@ -23,11 +23,11 @@
     </item>
     <item>
       <title>Reporting MLR</title>
-      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/MLR/MLR+-+MyReports&rs:Command=Render&rs:ClearSession=true</link>
+      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/MLR/MLR+-+MyReports&amp;rs:Command=Render&amp;rs:ClearSession=true</link>
     </item>
     <item>
       <title>Reporting TKR</title>
-      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&rs:Command=Render</link>
+      <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&amp;rs:Command=Render</link>
     </item>
     <item>
       <title>Sec Print</title>
