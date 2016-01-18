@@ -30,6 +30,10 @@
       <link>https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&amp;rs:Command=Render</link>
     </item>
     <item>
+      <title>SMS Registrierung</title>
+      <link>https://sms-registration.admin.ch/reg/login</link>
+    </item>
+    <item>
       <title>Sec Print</title>
       <link>http://intranet.secprint.admin.ch</link>
     </item>
