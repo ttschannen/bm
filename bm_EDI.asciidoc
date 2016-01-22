@@ -1,0 +1,8 @@
+= TT's EDI bookmarks
+
+[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+|==============================
+|EDI|https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx[ICK]
+||https://intranet.collaboration.admin.ch/sites/LBKEDI/EDI-SEC/default.aspx[ISK]
+||https://intranet.collaboration.admin.ch/sites/LBKEDI/default.aspx[LBK]
+|==============================
