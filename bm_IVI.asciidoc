@@ -3,7 +3,7 @@
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
-|IVI|http://admix.ivi.admin.ch:9999[Director new GUI]
+|http://tschannen.github.io/bm/bms.html[back]|http://admix.ivi.admin.ch:9999[Director new GUI]
 ||http://admix.ivi.admin.ch/bigswaf/BigClerk/browse[Director old GUI]
 ||http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e[Tf Liste]
 ||http://php.ivi.admin.ch/ldap/telpdf.php3?language=e[Tf Liste (pdf)]

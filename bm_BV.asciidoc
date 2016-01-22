@@ -3,7 +3,7 @@
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
-|BV|http://intranet.verzeichnisse.admin.ch[Admin Dir]
+|http://tschannen.github.io/bm/bms.html[back]|http://intranet.verzeichnisse.admin.ch[Admin Dir]
 ||http://intranet.bit.admin.ch[Intranet BIT]
 ||http://intranet.isb.admin.ch[Intranet ISB]
 ||http://www.egate.admin.ch[egate]

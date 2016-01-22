@@ -2,10 +2,10 @@
 
 [grid="none",frame="topbot",width="40%",cols="<5"]
 |==============================
-|http://ttschannen.github.io/bm/bm_BV.html[BV]
-|http://ttschannen.github.io/bm/bm_TT.html[TT]
-|http://ttschannen.github.io/bm/bm_IVI.html[IVI]
-|http://ttschannen.github.io/bm/bm_EDI.html[EDI]
-|http://ttschannen.github.io/bm/bm_BIT.html[BIT]
 |http://ttschannen.github.io/bm/bm_GP.html[GP]
+|http://ttschannen.github.io/bm/bm_EDI.html[EDI]
+|http://ttschannen.github.io/bm/bm_IVI.html[IVI]
+|http://ttschannen.github.io/bm/bm_TT.html[TT]
+|http://ttschannen.github.io/bm/bm_BV.html[BV]
+|http://ttschannen.github.io/bm/bm_BIT.html[BIT]
 |==============================
