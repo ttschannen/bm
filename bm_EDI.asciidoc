@@ -3,7 +3,7 @@
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
-|http://tschannen.github.io/bm/bms.html[back]|https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx[ICK]
+|http://ttschannen.github.io/bm/bms.html[top]|https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx[ICK]
 ||https://intranet.collaboration.admin.ch/sites/LBKEDI/EDI-SEC/default.aspx[ISK]
 ||https://intranet.collaboration.admin.ch/sites/LBKEDI/default.aspx[LBK]
 |==============================

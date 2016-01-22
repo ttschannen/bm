@@ -3,7 +3,7 @@
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
-|http://tschannen.github.io/bm/bms.html[back]|https://vdi-admin.ras.admin.ch[AdminVDI]
+|http://ttschannen.github.io/bm/bms.html[top]|https://vdi-admin.ras.admin.ch[AdminVDI]
 ||https://v820000005019b.adb.vos.admin.ch:8089/org/CLOUD[Atlantica W-UI]
 ||https://intranet.remedy.adr.admin.ch/arsys[Remedy]
 ||https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fWelcome[Reporting]
