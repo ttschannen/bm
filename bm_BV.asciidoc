@@ -3,7 +3,7 @@
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
-|http://ttschannen.github.io/bm/bms.html[top]|http://intranet.verzeichnisse.admin.ch[Admin Dir]
+|http://ttschannen.github.io/bm/bms.html[up]|http://intranet.verzeichnisse.admin.ch[Admin Dir]
 ||http://intranet.bit.admin.ch[Intranet BIT]
 ||http://intranet.isb.admin.ch[Intranet ISB]
 ||http://www.egate.admin.ch[egate]
