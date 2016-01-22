@@ -1,7 +1,5 @@
 
-=  http://ttschannen.github.io/bm/bm.html[TT's bookmarks]
-
-BV
+=  TT's BV bookmarks
 
 [grid="none",frame="topbot",width="40%",cols=">1,<5"]
 |==============================
