@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webcams Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs Webcams bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Guggisberg</title>
+      <link>http://www.webcam-guggisberg.ch</link>
+    </item>
+    <item>
+      <title>Gurnigel</title>
+      <link>http://www.gurnigel.ch/webcam/</link>
+    </item>
+    <item>
+      <title>Thun</title>
+      <link>http://www.idynamics.ch/download_webcam.php</link>
+    </item>
+    <item>
+      <title>Uebersicht:http://www.webcams.travel/map/#lat=46.777096&lng=8.179933&z=8&t=n</title>
+      <link></link>
+    </item>
+    <item>
+      <title>Weggis</title>
+      <link>http://weggis.roundshot.com/</link>
+    </item>
+  </channel>
+</rss>

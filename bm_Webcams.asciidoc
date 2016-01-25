@@ -1,0 +1,11 @@
+
+=  TT's Webcams bookmarks
+
+[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+|==============================
+|http://ttschannen.github.io/bm/bms.html[up]|http://www.webcam-guggisberg.ch[Guggisberg]
+||http://www.gurnigel.ch/webcam/[Gurnigel]
+||http://www.idynamics.ch/download_webcam.php[Thun]
+||[Uebersicht:http://www.webcams.travel/map/#lat=46.777096&lng=8.179933&z=8&t=n]
+||http://weggis.roundshot.com/[Weggis]
+|==============================
