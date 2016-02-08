@@ -6,16 +6,16 @@
 |
 [cols=">1",grid="none",frame="none"]
 !==============================================
-!*BIT*
-!BV
-!EDI
-!GP
-!IVI
-!TT
-!Webcams
+!http://ttschannen.github.io/bm/bm_BIT.html[*BIT*]
+!http://ttschannen.github.io/bm/bm_BV.html[BV]
+!http://ttschannen.github.io/bm/bm_EDI.html[EDI]
+!http://ttschannen.github.io/bm/bm_GP.html[GP]
+!http://ttschannen.github.io/bm/bm_IVI.html[IVI]
+!http://ttschannen.github.io/bm/bm_TT.html[TT]
+!http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]
 !==============================================
 |
-[cols=">1",grid="none",frame="none"]
+[cols="<1",grid="none",frame="none"]
 !==============================================
 !https://vdi-admin.ras.admin.ch[AdminVDI]
 !https://v820000005019b.adb.vos.admin.ch:8089/org/CLOUD[Atlantica W-UI]
