@@ -1,16 +1,32 @@
 
 =  TT's BIT bookmarks
 
-[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
-|http://ttschannen.github.io/bm/bms.html[up]|https://vdi-admin.ras.admin.ch[AdminVDI]
-||https://v820000005019b.adb.vos.admin.ch:8089/org/CLOUD[Atlantica W-UI]
-||https://intranet.remedy.adr.admin.ch/arsys[Remedy]
-||https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fWelcome[Reporting]
-||https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/MLR/MLR+-+MyReports&rs:Command=Render&rs:ClearSession=true[Reporting MLR]
-||https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&rs:Command=Render[Reporting TKR]
-||https://sms-registration.admin.ch/reg/login[SMS Registrierung]
-||http://intranet.secprint.admin.ch[Sec Print]
-||https://intranet.collaboration.admin.ch/sites/UCC-LEBIT/EDI/IVI/default.aspx[UCC]
-||https://mvdi.ras.admin.ch/citrix/desktopweb[mVDI]
-|==============================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!*BIT*
+!BV
+!EDI
+!GP
+!IVI
+!TT
+!Webcams
+!==============================================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!https://vdi-admin.ras.admin.ch[AdminVDI]
+!https://v820000005019b.adb.vos.admin.ch:8089/org/CLOUD[Atlantica W-UI]
+!https://intranet.remedy.adr.admin.ch/arsys[Remedy]
+!https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?%2fWelcome[Reporting]
+!https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/MLR/MLR+-+MyReports&rs:Command=Render&rs:ClearSession=true[Reporting MLR]
+!https://reporting.adb.intra.admin.ch/Reports/Pages/ReportViewer.aspx?/TKR/TKR+-+MyReports&rs:Command=Render[Reporting TKR]
+!https://sms-registration.admin.ch/reg/login[SMS Registrierung]
+!http://intranet.secprint.admin.ch[Sec Print]
+!https://intranet.collaboration.admin.ch/sites/UCC-LEBIT/EDI/IVI/default.aspx[UCC]
+!https://mvdi.ras.admin.ch/citrix/desktopweb[mVDI]
+!==============================================
+
+|==============================================

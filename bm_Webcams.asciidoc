@@ -1,11 +1,27 @@
 
 =  TT's Webcams bookmarks
 
-[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
-|http://ttschannen.github.io/bm/bms.html[up]|http://www.webcam-guggisberg.ch[Guggisberg]
-||http://www.gurnigel.ch/webcam/[Gurnigel]
-||http://www.idynamics.ch/download_webcam.php[Thun]
-||http://www.webcams.travel/map/#lat=46.777096&lng=8.179933&z=8&t=n[Uebersicht]
-||http://weggis.roundshot.com/[Weggis]
-|==============================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!BIT
+!BV
+!EDI
+!GP
+!IVI
+!TT
+!*Webcams*
+!==============================================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!http://www.webcam-guggisberg.ch[Guggisberg]
+!http://www.gurnigel.ch/webcam/[Gurnigel]
+!http://www.idynamics.ch/download_webcam.php[Thun]
+!http://www.webcams.travel/map/#lat=46.777096&lng=8.179933&z=8&t=n[Uebersicht]
+!http://weggis.roundshot.com/[Weggis]
+!==============================================
+
+|==============================================

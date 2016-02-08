@@ -1,12 +1,28 @@
 
 =  TT's IVI bookmarks
 
-[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
-|http://ttschannen.github.io/bm/bms.html[up]|http://admix.ivi.admin.ch:9999[Director new GUI]
-||http://admix.ivi.admin.ch/bigswaf/BigClerk/browse[Director old GUI]
-||http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e[Tf Liste]
-||http://php.ivi.admin.ch/ldap/telpdf.php3?language=e[Tf Liste (pdf)]
-||http://wiki/dokuwiki[Wiki]
-||http://sherlock.ivi.admin.ch:3000[sherlock]
-|==============================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!BIT
+!BV
+!EDI
+!GP
+!*IVI*
+!TT
+!Webcams
+!==============================================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!http://admix.ivi.admin.ch:9999[Director new GUI]
+!http://admix.ivi.admin.ch/bigswaf/BigClerk/browse[Director old GUI]
+!http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e[Tf Liste]
+!http://php.ivi.admin.ch/ldap/telpdf.php3?language=e[Tf Liste (pdf)]
+!http://wiki/dokuwiki[Wiki]
+!http://sherlock.ivi.admin.ch:3000[sherlock]
+!==============================================
+
+|==============================================

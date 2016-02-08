@@ -1,10 +1,26 @@
 
 =  TT's GP bookmarks
 
-[grid="none",frame="topbot",width="40%",cols=">1,<5"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
-|http://ttschannen.github.io/bm/bms.html[up]|http://www.arp.ch[Arp]
-||http://www.brack.ch[Brack]
-||http://www.disdata.ch[Disdata]
-||http://www.transtec.ch[transtec]
-|==============================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!BIT
+!BV
+!EDI
+!*GP*
+!IVI
+!TT
+!Webcams
+!==============================================
+|
+[cols=">1",grid="none",frame="none"]
+!==============================================
+!http://www.arp.ch[Arp]
+!http://www.brack.ch[Brack]
+!http://www.disdata.ch[Disdata]
+!http://www.transtec.ch[transtec]
+!==============================================
+
+|==============================================
