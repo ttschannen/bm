@@ -2,29 +2,29 @@
 =  TT's IVI bookmarks
 
 Go to http://ttschannen.github.io/bm/bm.html[flat version]
-[grid="none",frame="topbot",width="90%",cols="1a,5a"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
 |
 [cols=">1",grid="none",frame="none"]
 !==============================================
-!http://ttschannen.github.io/bm/bm_BIT.html[BIT]
-!http://ttschannen.github.io/bm/bm_BV.html[BV]
-!http://ttschannen.github.io/bm/bm_EDI.html[EDI]
-!http://ttschannen.github.io/bm/bm_GP.html[GP]
-!http://ttschannen.github.io/bm/bm_IVI.html[*IVI*]
-!http://ttschannen.github.io/bm/bm_TT.html[TT]
-!http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]
+![big]#http://ttschannen.github.io/bm/bm_BIT.html[BIT]#
+![big]#http://ttschannen.github.io/bm/bm_BV.html[BV]#
+![big]#http://ttschannen.github.io/bm/bm_EDI.html[EDI]#
+![big]#http://ttschannen.github.io/bm/bm_GP.html[GP]#
+![big]#http://ttschannen.github.io/bm/bm_IVI.html[*IVI*]#
+![big]#http://ttschannen.github.io/bm/bm_TT.html[TT]#
+![big]#http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]#
 !==============================================
 |
 [cols="<1",grid="none",frame="none"]
 !==============================================
-!http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&language=e[Bon.app]
-!http://admix.ivi.admin.ch:9999[Director new GUI]
-!http://admix.ivi.admin.ch/bigswaf/BigClerk/browse[Director old GUI]
-!http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e[Tf Liste]
-!http://php.ivi.admin.ch/ldap/telpdf.php3?language=e[Tf Liste (pdf)]
-!http://wiki/dokuwiki[Wiki]
-!http://sherlock.ivi.admin.ch:3000[sherlock]
+![big]#http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&language=e[Bon.app]#
+![big]#http://admix.ivi.admin.ch:9999[Director new GUI]#
+![big]#http://admix.ivi.admin.ch/bigswaf/BigClerk/browse[Director old GUI]#
+![big]#http://php.ivi.admin.ch/ldap/ivipeople.php3?language=e[Tf Liste]#
+![big]#http://php.ivi.admin.ch/ldap/telpdf.php3?language=e[Tf Liste (pdf)]#
+![big]#http://wiki/dokuwiki[Wiki]#
+![big]#http://sherlock.ivi.admin.ch:3000[sherlock]#
 !==============================================
 
 |==============================================

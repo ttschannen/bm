@@ -2,26 +2,26 @@
 =  TT's GP bookmarks
 
 Go to http://ttschannen.github.io/bm/bm.html[flat version]
-[grid="none",frame="topbot",width="90%",cols="1a,5a"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
 |
 [cols=">1",grid="none",frame="none"]
 !==============================================
-!http://ttschannen.github.io/bm/bm_BIT.html[BIT]
-!http://ttschannen.github.io/bm/bm_BV.html[BV]
-!http://ttschannen.github.io/bm/bm_EDI.html[EDI]
-!http://ttschannen.github.io/bm/bm_GP.html[*GP*]
-!http://ttschannen.github.io/bm/bm_IVI.html[IVI]
-!http://ttschannen.github.io/bm/bm_TT.html[TT]
-!http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]
+![big]#http://ttschannen.github.io/bm/bm_BIT.html[BIT]#
+![big]#http://ttschannen.github.io/bm/bm_BV.html[BV]#
+![big]#http://ttschannen.github.io/bm/bm_EDI.html[EDI]#
+![big]#http://ttschannen.github.io/bm/bm_GP.html[*GP*]#
+![big]#http://ttschannen.github.io/bm/bm_IVI.html[IVI]#
+![big]#http://ttschannen.github.io/bm/bm_TT.html[TT]#
+![big]#http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]#
 !==============================================
 |
 [cols="<1",grid="none",frame="none"]
 !==============================================
-!http://www.arp.ch[Arp]
-!http://www.brack.ch[Brack]
-!http://www.disdata.ch[Disdata]
-!http://www.transtec.ch[transtec]
+![big]#http://www.arp.ch[Arp]#
+![big]#http://www.brack.ch[Brack]#
+![big]#http://www.disdata.ch[Disdata]#
+![big]#http://www.transtec.ch[transtec]#
 !==============================================
 
 |==============================================
