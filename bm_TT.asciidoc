@@ -2,30 +2,30 @@
 =  TT's TT bookmarks
 
 Go to http://ttschannen.github.io/bm/bm.html[flat version]
-[grid="none",frame="topbot",width="80%",cols="1a,5a"]
+[grid="none",frame="topbot",width="40%",cols="1a,5a"]
 |==============================
 |
 [cols=">1",grid="none",frame="none"]
 !==============================================
-![big]#http://ttschannen.github.io/bm/bm_BIT.html[BIT]#
-![big]#http://ttschannen.github.io/bm/bm_BV.html[BV]#
-![big]#http://ttschannen.github.io/bm/bm_EDI.html[EDI]#
-![big]#http://ttschannen.github.io/bm/bm_GP.html[GP]#
-![big]#http://ttschannen.github.io/bm/bm_IVI.html[IVI]#
-![big]#http://ttschannen.github.io/bm/bm_TT.html[*TT*]#
-![big]#http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]#
+!http://ttschannen.github.io/bm/bm_BIT.html[BIT]
+!http://ttschannen.github.io/bm/bm_BV.html[BV]
+!http://ttschannen.github.io/bm/bm_EDI.html[EDI]
+!http://ttschannen.github.io/bm/bm_GP.html[GP]
+!http://ttschannen.github.io/bm/bm_IVI.html[IVI]
+!http://ttschannen.github.io/bm/bm_TT.html[*TT*]
+!http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]
 !==============================================
 |
 [cols="<1",grid="none",frame="none"]
 !==============================================
-![big]#http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&language=e[Bon.app]#
-![big]#http://github.org/ttschannen[Github]#
-![big]#http://ttschannen.github.io/bm/bm.html[Github BMs]#
-![big]#http://ttschannen.github.io/bm/bmi[Github LBMs]#
-![big]#http://meggiana11.it[Meggiana]#
-![big]#http://doodle.com/zrfnq2mcvubew23s[VB Ittigen]#
-![big]#http://doodle.com/poll/yq2n6eqghnfw5wpfab35eirh/admin#table[VB Riffenmatt]#
-![big]#http://doodle.com/poll/kbvzu39prztb6r6s[VB Schwarzenburg]#
+!http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&language=e[Bon.app]
+!http://github.org/ttschannen[Github]
+!http://ttschannen.github.io/bm/bm.html[Github BMs]
+!http://ttschannen.github.io/bm/bmi[Github LBMs]
+!http://meggiana11.it[Meggiana]
+!http://doodle.com/zrfnq2mcvubew23s[VB Ittigen]
+!http://doodle.com/poll/yq2n6eqghnfw5wpfab35eirh/admin#table[VB Riffenmatt]
+!http://doodle.com/poll/kbvzu39prztb6r6s[VB Schwarzenburg]
 !==============================================
 
 |==============================================
