@@ -2,7 +2,7 @@
 =  TT's Webcams bookmarks
 
 Go to http://ttschannen.github.io/bm/bm.html[flat version]
-[grid="none",frame="topbot",width="40%",cols="1a,5a"]
+[grid="none",frame="topbot",width="80%",cols="1a,5a"]
 |==============================
 |
 [cols=">1",grid="none",frame="none"]
