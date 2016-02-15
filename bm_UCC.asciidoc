@@ -1,5 +1,5 @@
 
-=  TT's Webcams bookmarks
+=  TT's UCC bookmarks
 
 Go to http://ttschannen.github.io/bm/bm.html[flat version]
 [grid="none",frame="topbot",width="40%",cols="1a,5a"]
@@ -14,17 +14,15 @@ Go to http://ttschannen.github.io/bm/bm.html[flat version]
 !http://ttschannen.github.io/bm/bm_IVI.html[IVI]
 !http://ttschannen.github.io/bm/bm_Ref.html[Ref]
 !http://ttschannen.github.io/bm/bm_TT.html[TT]
-!http://ttschannen.github.io/bm/bm_UCC.html[UCC]
-!http://ttschannen.github.io/bm/bm_Webcams.html[*Webcams*]
+!http://ttschannen.github.io/bm/bm_UCC.html[*UCC*]
+!http://ttschannen.github.io/bm/bm_Webcams.html[Webcams]
 !==============================================
 |
 [cols="<1",grid="none",frame="none"]
 !==============================================
-!http://www.webcam-guggisberg.ch[Guggisberg]
-!http://www.gurnigel.ch/webcam/[Gurnigel]
-!http://www.idynamics.ch/download_webcam.php[Thun]
-!http://www.webcams.travel/map/#lat=46.777096&lng=8.179933&z=8&t=n[Uebersicht]
-!http://weggis.roundshot.com/[Weggis]
+!http://intranet.isb.admin.ch/themen/projekte_programme/01479/01843/01918/index.html?lang=de[Lernvideos]
+!http://intranet.bit.admin.ch/projekte/05200/05203/05263/index.html?lang=de#sprungmarke0_13[Quick Reference Guides]
+!http://intranet.isb.admin.ch/themen/projekte_programme/01479/01843/01919/index.html?lang=de[eBook]
 !==============================================
 
 |==============================================
