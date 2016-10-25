@@ -1,0 +1,10 @@
+#!/bin/bash
+bin/mkbm.pl input/mybm.txt
+for i in static/*asciidoc;
+do asciidoc $i;
+done
+bin/mkbmidx.pl
+hugo -d dist
+git add .
+git commit -m "modified bookmarks on `date`"
+bin/deploy.sh

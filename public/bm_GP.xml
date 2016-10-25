@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GP Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs GP bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Arp</title>
+      <link>http://www.arp.ch</link>
+    </item>
+    <item>
+      <title>Brack</title>
+      <link>http://www.brack.ch</link>
+    </item>
+    <item>
+      <title>Disdata</title>
+      <link>http://www.disdata.ch</link>
+    </item>
+    <item>
+      <title>transtec</title>
+      <link>http://www.transtec.ch</link>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TT,IVI Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs TT,IVI bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Bon.app</title>
+      <link>http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&amp;language=e</link>
+    </item>
+  </channel>
+</rss>
