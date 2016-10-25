@@ -6,6 +6,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <item>
+      <title>APS Testcenter</title>
+      <link>https://apsbw.adb.intra.admin.ch/Testcenter/</link>
+    </item>
+    <item>
       <title>AdminVDI</title>
       <link>https://vdi-admin.ras.admin.ch</link>
     </item>
