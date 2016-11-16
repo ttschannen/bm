@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs Blogs bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>grimoire</title>
+      <link>https://grymoire.wordpress.com/</link>
+    </item>
+  </channel>
+</rss>
