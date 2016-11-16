@@ -9,6 +9,7 @@ IVI; Tf Liste (pdf); http://php.ivi.admin.ch/ldap/telpdf.php3?language=e
 IVI; Director old GUI; http://admix.ivi.admin.ch/bigswaf/BigClerk/browse
 IVI; Director new GUI; http://admix.ivi.admin.ch:9999
 IVI; Wiki; http://wiki/dokuwiki
+IVI; Bon.app ; http://bonapp/servlet/BonApp?id=BoCZuFFtg1FW2&language=e
 
 
 BV; egate; http://www.egate.admin.ch
@@ -42,3 +43,24 @@ GP; Arp ; http://www.arp.ch
 GP; Brack ; http://www.brack.ch
 GP; Disdata ; http://www.disdata.ch
 GP; transtec ; http://www.transtec.ch
+
+Webcams; Guggisberg;http://www.webcam-guggisberg.ch
+Webcams; Gurnigel;http://www.gurnigel.ch/webcam
+Webcams; Uebersicht;http://www.webcams.travel
+
+HOWTOs; awk ; http://www.grymoire.com/Unix/Awk.html
+HOWTOs; sed ; http://www.grymoire.com/Unix/sed.html
+HOWTOs; unix ; http://www.grymoire.com/Unix/index.html
+
+Ref; Network Monitor Tools ; https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html
+Ref; Tel Search ; http://telsearch.ch
+Ref; Tools ; http://toool.de
+Ref; WP de ; http://de.wikipedia.com
+Ref; WP en ; http://en.wikipedia.com
+Ref; Web Search D ; http://duckduckgo.com
+Ref; Web Search G ; http://google.com
+Ref; Yubnub ; http://yubnub.org
+
+Blogs ; grimoire ; https://grymoire.wordpress.com/
+
+

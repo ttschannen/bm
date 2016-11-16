@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOWTOs Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs HOWTOs bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>awk</title>
+      <link>http://www.grymoire.com/Unix/Awk.html</link>
+    </item>
+    <item>
+      <title>sed</title>
+      <link>http://www.grymoire.com/Unix/sed.html</link>
+    </item>
+    <item>
+      <title>unix</title>
+      <link>http://www.grymoire.com/Unix/index.html</link>
+    </item>
+  </channel>
+</rss>
