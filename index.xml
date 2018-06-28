@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Dec 2015 08:36:54 -0700</lastBuildDate>
-    <atom:link href="http://ttschannen.github.io/bm/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://ttschannen.github.io/bm/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Index</title>
@@ -15,47 +17,19 @@
       <pubDate>Tue, 29 Dec 2015 08:36:54 -0700</pubDate>
       
       <guid>http://ttschannen.github.io/bm/bmi/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;We have these bookmarkfiles:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;ulist&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_BIT.xml&#34;&gt;BIT&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_Blogs.xml&#34;&gt;Blogs&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_BV.xml&#34;&gt;BV&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_EDI.xml&#34;&gt;EDI&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_GP.xml&#34;&gt;GP&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_HOWTOs.xml&#34;&gt;HOWTOs&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_IVI.xml&#34;&gt;IVI&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_Ref.xml&#34;&gt;Ref&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_TT.xml&#34;&gt;TT&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://ttschannen.github.io/bm/bm_Webcams.xml&#34;&gt;Webcams&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>We have these bookmarkfiles:
+   BIT
+  Blogs
+  BV
+  EDI
+  GP
+  HOWTOs
+  IVI
+  Ref
+  TT
+  Webcams
+   Enjoy!
+ </description>
     </item>
     
   </channel>
