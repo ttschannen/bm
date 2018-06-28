@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTs bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>Recent content on TTs bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2015 08:36:54 -0700</lastBuildDate>
+    
+	<atom:link href="http://ttschannen.github.io/bm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Index</title>
+      <link>http://ttschannen.github.io/bm/bmi/</link>
+      <pubDate>Tue, 29 Dec 2015 08:36:54 -0700</pubDate>
+      
+      <guid>http://ttschannen.github.io/bm/bmi/</guid>
+      <description>We have these bookmarkfiles:
+   BIT
+  Blogs
+  BV
+  EDI
+  GP
+  HOWTOs
+  IVI
+  Ref
+  TT
+  Webcams
+   Enjoy!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

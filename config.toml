@@ -7,7 +7,7 @@ theme = "hyde-x"
 paginate = 10
 
 [author]
-    name = "Thomas Tschannen-Mueller"
+    name = "Thomas Tschannen"
 
 [params]
     github = "http://ttschannen.github.io"

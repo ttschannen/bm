@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webcams Bookmarks</title>
+    <link>http://ttschannen.github.io/bm/</link>
+    <description>TTs Webcams bookmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <item>
+      <title>Guggisberg</title>
+      <link>http://www.webcam-guggisberg.ch</link>
+    </item>
+    <item>
+      <title>Gurnigel</title>
+      <link>http://www.gurnigel.ch/webcam</link>
+    </item>
+    <item>
+      <title>Uebersicht</title>
+      <link>http://www.webcams.travel</link>
+    </item>
+  </channel>
+</rss>
