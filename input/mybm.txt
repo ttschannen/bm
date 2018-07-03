@@ -32,9 +32,8 @@ EDI;ISK;https://intranet.collaboration.admin.ch/sites/LBKEDI/EDI-SEC/default.asp
 EDI;ICK;https://intranet.collaboration.admin.ch/sites/LBKEDI/ICKEDI/default.aspx
 
 
-TT;VB Ittigen;http://doodle.com/zrfnq2mcvubew23s
+TT;VB Ittigen;http://doodle.com/5yv5944p3yvytyia
 TT;VB Riffenmatt;http://doodle.com/poll/yq2n6eqghnfw5wpfab35eirh/admin#table
-TT;VB Schwarzenburg;http://doodle.com/poll/9vh4fmbqg678yvvx
 TT;Github;http://github.org/ttschannen
 TT;Github BMs;http://ttschannen.github.io/bm/bmi
 TT;Meggiana;http://meggiana11.it
